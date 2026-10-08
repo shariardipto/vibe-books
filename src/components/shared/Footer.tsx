@@ -144,7 +144,7 @@ const Footer = () => {
         <div className="mt-12 flex flex-col gap-4 border-t border-stone-800 pt-6 text-sm text-stone-500 md:flex-row md:items-center md:justify-between">
           
           <p>
-            © {new Date().getFullYear()} Vibe Book. All rights reserved.
+            © 2026 Vibe Book. All rights reserved.
           </p>
 
           <div className="flex gap-5">
